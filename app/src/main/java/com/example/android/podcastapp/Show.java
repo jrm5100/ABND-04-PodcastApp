@@ -1,10 +1,6 @@
 package com.example.android.podcastapp;
 
-import android.graphics.drawable.Drawable;
-import android.media.Image;
-
 import java.io.Serializable;
-import java.sql.Ref;
 import java.util.ArrayList;
 
 public class Show implements Serializable {
